@@ -1,4 +1,4 @@
-# Swedish-Location-Data
+# Swedish Location Data
 Multiple swedish location data.
 
 - all-swedish-cities.txt contains every swedish city.
